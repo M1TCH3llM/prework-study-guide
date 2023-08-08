@@ -26,6 +26,6 @@ console.log('here are the topics we learned through Prework:');
 
 listToptics()
 
-console.log('Whirch topic should we3 studay first?');
+console.log('Whirch topic should we study first?');
 
 selectTopic()
